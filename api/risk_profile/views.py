@@ -1,4 +1,3 @@
-import json
 import datetime
 
 from django.shortcuts import render
